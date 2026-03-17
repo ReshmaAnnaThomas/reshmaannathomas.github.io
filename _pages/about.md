@@ -26,6 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am currently a postdoctoral researcher at ASTRON, the Netherlands Institute for Radio Astronomy, and affiliated with the University of Amsterdam. I work with Prof. dr. Jason Hessels as part of the [ASTROFLASH](https://astroflash-frb.github.io) collaboration. My research focuses on detecting fast radio transients, localizing them with sub-arcsecond precision, and studying their properties. I am particularly interested in uncovering their origins and exploring how we can use these signals to probe the Universe. I am currently using data from the Low Frequency Array (LOFAR) Telescope to do this.
 
-I completed my PhD from West Virginia University, Morgantown, WV in the United States in December 2024. During my PhD, I was a part of the [realfast](http://realfast.io/about/) collaboration at the Very Large Array (VLA). Using this instrument and the 100-m Green Bank Telescope (GBT) at WV, I studied fast radio transients, including fast radio bursts (FRBs). My thesis titled [The Search, The Localization, and The Characterization: Fast radio transients](https://researchrepository.wvu.edu/etd/12680/), which won the [2024 IAU PhD prize for High Energy and Fundamental Physics Division](https://www.iau.org/Iau/News/Ann2025/ann25017.aspx), was supervised by Prof. Sarah Burke-Spolaor. 
+I am a postdoctoral researcher at ASTRON, the Netherlands Institute for Radio Astronomy, and an incoming Marie Skłodowska-Curie Fellow at the University of Amsterdam. I work with Prof. dr. Jason Hessels as part of the [ASTROFLASH](https://astroflash-frb.github.io) collaboration.  
+
+My research focuses on discovering fast radio transients, pinpointing their locations with sub-arcsecond precision, and understanding their physical properties. I am especially interested in uncovering their origins and using these signals as tools to probe the Universe. Much of my current work uses data from the Low Frequency Array (LOFAR) telescope.
+
+I completed my PhD at West Virginia University in December 2024. During this time, I was a member of the [realfast](http://realfast.io/about/) collaboration at the Very Large Array, and also worked with the 100-m Green Bank Telescope. My research centered on detecting and studying fast radio transients, including fast radio bursts (FRBs).  
+
+My thesis, *[The Search, The Localization, and The Characterization: Fast Radio Transients](https://researchrepository.wvu.edu/etd/12680/)*, was supervised by Prof. Sarah Burke-Spolaor and was awarded the 2024 International Astronomical Union's PhD Prize (High Energy and Fundamental Physics Division).
